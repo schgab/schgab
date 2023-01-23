@@ -1,5 +1,5 @@
-# 💫 About Me:
-Passionate software developer creating software applications for friends and small businesses
+# 👋 About Me:
+Hi, I'm Gabriel a passionate software developer creating software applications for friends and small businesses
 
 
 ## 🌐 Socials:
